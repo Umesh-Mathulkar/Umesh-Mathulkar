@@ -22,14 +22,14 @@ using bootstrap and maintaining good communication with clients is my priority.
 Languages and Tools: 
 
 <p align="center">
-<img src="https://umesh-mathulkar.github.io/portfolio/images/htmlImg.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://umesh-mathulkar.github.io/portfolio/images/cssImg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://umesh-mathulkar.github.io/portfolio/images/Bootst.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://umesh-mathulkar.github.io/portfolio/images/jsimg.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://umesh-mathulkar.github.io/portfolio/images/react.png" alt="React.js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://umesh-mathulkar.github.io/portfolio/images/mongo.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://umesh-mathulkar.github.io/portfolio/images/node.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://umesh-mathulkar.github.io/portfolio/images/express.png" alt="Express.js" height="40" style="vertical-align:top; margin:4px">
+<img src="https://umesh-mathulkar.github.io/portfolio/images/htmlImg.png" alt="HTML" height="60" style="vertical-align:top; margin:4px">
+<img src="https://umesh-mathulkar.github.io/portfolio/images/cssImg.png" alt="CSS" height="60" style="vertical-align:top; margin:4px">
+<img src="https://umesh-mathulkar.github.io/portfolio/images/Bootst.svg" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://umesh-mathulkar.github.io/portfolio/images/jsimg.png" alt="JavaScript" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://umesh-mathulkar.github.io/portfolio/images/react.png" alt="React.js" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://umesh-mathulkar.github.io/portfolio/images/mongo.png" alt="MongoDB" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://umesh-mathulkar.github.io/portfolio/images/node.png" alt="Node.js" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://umesh-mathulkar.github.io/portfolio/images/express.png" alt="Express.js" height="60" style="vertical-align:top; margin:4px">
 </p>
     
 
