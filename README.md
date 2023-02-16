@@ -4,8 +4,8 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Umesh-green)](https://umesh-mathulkar.github.io/portfolio/)
 
 I'm
-Front End Developer
-Website Developer skilled in HTML, CSS and on the way to get fully skilled in JavaScript. Making user 
+Full stack Developer
+Website Developer skilled in HTML, CSS, JavaScript and<b> MERN stack</b>. Making user 
 experience of a website pleasing and attractive. Ensuring responsiveness of website across all devices 
 using bootstrap and maintaining good communication with clients is my priority. 
 
